@@ -13,7 +13,7 @@ import sweeper.Ranges;
 public class JavaSweeper extends JFrame {
 
     private Game game;
-    private JPanel panel; //4. Добавляем панель
+    private JPanel panel; //4. Добавляем панель комментарии
     private JLabel label;
 
     private final int COLS = 9;
